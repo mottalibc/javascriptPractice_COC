@@ -40,3 +40,23 @@ console.log(boolConv);
 // "str" => true
 // 0 => false
 // 1 => true
+
+// ****************************Operations***********************************
+
+// basic Operation--------->
+// +, -, *, **, /, %
+
+// Tricky Operations------->
+// ++, --,
+
+// let str1;
+// let str2;
+// let str3;
+
+// str1 = str2 = str3 = 4+4; // outputr in every variables = 8
+
+// let gameCount = 100;
+// gameCount++ // 101
+// ++gameCount // 101
+
+// Prefix-Posfix
